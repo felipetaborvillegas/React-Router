@@ -1,0 +1,23 @@
+div {
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+
+p {
+    font-size: 20px;
+    width: 50vw;
+    text-align: justify;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+button {
+    width: 180px;
+    height: 30px;
+    font-size: 20px;
+    margin-bottom: 70px;
+}
