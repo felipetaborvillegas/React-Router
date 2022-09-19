@@ -18,7 +18,7 @@ export function BlogPost () {
             <h2>{blogpost.title}</h2>
             <p>{blogpost.content}</p>
             <p>Died: {blogpost.died}</p>
-            <button onClick={returnToBlog}>Volver al blog</button>
+            <button onClick={returnToBlog}>Volver</button>
         </div>
     )
 }
