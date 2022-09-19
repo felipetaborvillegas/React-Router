@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Router/static/css/main.9a682c74.css",
+    "main.js": "/React-Router/static/js/main.e2ee0c96.js",
+    "static/media/mathematicians.jpg": "/React-Router/static/media/mathematicians.6a88bdcef9b1439041ff.jpg",
+    "static/media/euler.webp": "/React-Router/static/media/euler.6ec4b268924ef6b94c65.webp",
+    "static/media/alan.jpg": "/React-Router/static/media/alan.bf111a6c93f7a65b32f6.jpg",
+    "static/media/Ramanujan.webp": "/React-Router/static/media/Ramanujan.96ab4332e85bb675de6f.webp",
+    "index.html": "/React-Router/index.html",
+    "main.9a682c74.css.map": "/React-Router/static/css/main.9a682c74.css.map",
+    "main.e2ee0c96.js.map": "/React-Router/static/js/main.e2ee0c96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a682c74.css",
+    "static/js/main.e2ee0c96.js"
+  ]
+}
