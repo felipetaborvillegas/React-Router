@@ -13,7 +13,7 @@ export function BlogPage () {
 
             <Outlet/>
 
-            <ul>
+            <ul className="list-math">
                 {blogdata.map(post => (
                     <BlogLink key={post.slug} post={post}/> 
                 ))}
