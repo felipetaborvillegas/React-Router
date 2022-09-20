@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Router/static/css/main.ed9d7db8.css",
-    "main.js": "/React-Router/static/js/main.fd89e309.js",
+    "main.css": "/React-Router/static/css/main.ad31931f.css",
+    "main.js": "/React-Router/static/js/main.ee1d96e8.js",
     "static/media/mathematicians.jpg": "/React-Router/static/media/mathematicians.6a88bdcef9b1439041ff.jpg",
     "static/media/euler.webp": "/React-Router/static/media/euler.6ec4b268924ef6b94c65.webp",
     "static/media/alan.jpg": "/React-Router/static/media/alan.bf111a6c93f7a65b32f6.jpg",
     "static/media/Ramanujan.webp": "/React-Router/static/media/Ramanujan.96ab4332e85bb675de6f.webp",
     "index.html": "/React-Router/index.html",
-    "main.ed9d7db8.css.map": "/React-Router/static/css/main.ed9d7db8.css.map",
-    "main.fd89e309.js.map": "/React-Router/static/js/main.fd89e309.js.map"
+    "main.ad31931f.css.map": "/React-Router/static/css/main.ad31931f.css.map",
+    "main.ee1d96e8.js.map": "/React-Router/static/js/main.ee1d96e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed9d7db8.css",
-    "static/js/main.fd89e309.js"
+    "static/css/main.ad31931f.css",
+    "static/js/main.ee1d96e8.js"
   ]
 }
