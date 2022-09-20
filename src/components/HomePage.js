@@ -6,7 +6,7 @@ export function HomePage () {
     return (
         <div>
             <h1>Greatest Mathematicians</h1>
-            <img src={mathematicians} alt="mathematicians"/>
+            <img className="main-photo" src={mathematicians} alt="mathematicians"/>
         </div>
     )
 }

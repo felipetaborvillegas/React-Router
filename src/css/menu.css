@@ -12,17 +12,12 @@ ul {
     display: flex;
     justify-content: space-around;
     list-style: none;
-    font-size: 40px;
+    font-size: 20px;
     margin-bottom: 40px;
 }
 
 h1 {
     font-size: 50px;
     margin-bottom: 50px; 
-}
-
-img {
-    width: 50vw;
-    height: 70vh;
 }
 
